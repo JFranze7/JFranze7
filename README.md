@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1>Hi, I'm Jared! <br/><a 
+### Hi there 👋 <h1>Hi, I'm Jared! <br/>
 
 <h2>👨‍💻 Certifications:
 
